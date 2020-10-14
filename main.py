@@ -6,7 +6,6 @@
 # https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=1
 # https://www.youtube.com/watch?v=ZM5f4-JhnnQ
 # corey schafer: https://www.youtube.com/watch?v=a48xeeo5Vnk&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=2
-# test comment for commit
 
 
 def print_hi(name):
